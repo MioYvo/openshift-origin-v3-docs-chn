@@ -1,3 +1,3 @@
-# My Awesome Book
+# OpenShift v3 docs 中文
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+翻译[OpenShift Origin 3.6](https://docs.openshift.org/3.6/welcome/index.html)文档

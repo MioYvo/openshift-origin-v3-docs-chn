@@ -49,6 +49,7 @@ OpenShift Origin 3为开发人员提供了一套[语言](https://docs.openshift.
 
 ### <a name="before-you-begin">开始之前</a>
 在开始前：
+
 * 你必须可以进入一个OpenShift Origin实例。否则请联系你的集群管理员。
 * 你的实例必须被集群管理员用[即时应用模板(Instant App templates)](https://docs.openshift.org/latest/dev_guide/templates.html#using-the-instantapp-templates)和[构建器镜像(builder images)](https://docs.openshift.org/latest/using_images/s2i_images/index.html#using-images-s2i-images-index)预设过。
 * 你必须[下载并安装](https://docs.openshift.org/latest/cli_reference/get_started_cli.html#cli-reference-get-started-cli)好了OpenShift Origin CLI。
