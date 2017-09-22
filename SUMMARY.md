@@ -1,19 +1,19 @@
 # Summary
 
-* [Introduction 介绍](README.md)
+* [介绍 Introduction](README.md)
 * [What's New?](whats-new/overview.md)
   * [Applications](whats-new/applications.md)
   * [Cartridges vs Images](whats-new/cartridges-vs-images.md)
   * [Terminology](whats-new/terminology.md)
-* [Getting Started 开始](getting-started/overview.md)
+* [开始 Getting Started](getting-started/overview.md)
   * [Web Console Walkthrough](getting-started/web-console-walkthrough.md)
   * [Command-Line Walkthrough](getting-started/command-line-walkthrough.md)
   * [Setting Up a Cluster](getting-started/setting-up-a-cluster.md)
-* [Architecture 架构](architecture/overview.md)
-    * Infrastructure Components 基础设施组件
-        * Kubernetes Infrastructure k8s基础设施
-        * Container Registry 容器注册表
-        * Web Console Web控制台
+* [架构 Architecture ](architecture/overview.md)
+    * 基础设施组件 Infrastructure Components 
+        * [k8s基础设施 Kubernetes Infrastructure](architecture/infrastructure-components/kubernetes-infrastructure.md)
+        * [容器注册表 Container Registry](architecture/infrastructure-components/kubernetes-infrastructure.md)
+        * [Web控制台Web Console](architecture/infrastructure-components/web-console.md)
     * Core Concepts
         * Overview
         * Containers and Images
