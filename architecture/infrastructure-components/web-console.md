@@ -28,13 +28,13 @@ web控制台作为[主节点(master)](https://docs.openshift.org/latest/architec
 ### 浏览器要求
 下面浏览器版本和操作系统可以用来访问web控制台。
 
-表1. 浏览器要求
 |浏览器(最新稳定版 Lastest Stable)|操作系统|
 |:---|:---|
 |Firefox|Fedora 23, Windows 8|
 |Internet Explorer|Windows 8|
 |Chrome|Fedora 23, Windows 8, and MacOSX|
 |Safari|MacOSX,iPad 2, iPhone 4|
+*表1. 浏览器要求*
 
 ### 项目概述
 [登录后](https://docs.openshift.org/latest/dev_guide/authentication.html#dev-guide-authentication)，web控制台提供给开发者当前选择的[项目](https://docs.openshift.org/latest/dev_guide/projects.html#dev-guide-projects)的概述。
