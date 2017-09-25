@@ -14,8 +14,7 @@
         * [k8s基础设施 Kubernetes Infrastructure](architecture/infrastructure-components/kubernetes-infrastructure.md)
         * [容器注册表 Container Registry](architecture/infrastructure-components/kubernetes-infrastructure.md)
         * [Web控制台Web Console](architecture/infrastructure-components/web-console.md)
-    * Core Concepts
-        * Overview
+    * [核心概念 Core Concepts](architecture/core-concepts/overview.md)
         * Containers and Images
         * Pods and Services
         * Projects and Users
