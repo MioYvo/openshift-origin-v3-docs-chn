@@ -17,8 +17,8 @@
     * [核心概念 Core Concepts](architecture/core-concepts/overview.md)
         * [Containers and Images](architecture/core-concepts/containers-and-images.md)
         * [Pods and Services](architecture/core-concepts/pods-and-services.md)
-        * Projects and Users
-        * Builds and Image Streams
+        * [Projects and Users](architecture/core-concepts/projects-and-users.md)
+        * [Builds and Image Streams](architecture/core-concepts/builds-and-image-streams.md)
         * Deployments
         * Templates
     * Additional Concepts
